@@ -31,10 +31,10 @@ python eval.py
 
 ## results
 
-![](.\img\mass_result_1.png)
+![](./img/mass_result_1.png)
 
-![](.\img\mass_result_2.png)
+![](./img/mass_result_2.png)
 
-![](.\img\mass_result_3.png)
+![](./img/mass_result_3.png)
 
-![](.\img\mass_result_4.png)
+![](./img/mass_result_4.png)
