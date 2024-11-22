@@ -1,6 +1,6 @@
-# RGBM-AARNet
+# ERENet
 
-A Post-Processing Network for Enhancing Road Extraction Results
+A Post-Processing Network for Enhancing Road Extraction
 
 ![](./img/AARNET.png)
 
