@@ -1,4 +1,4 @@
-# ERENet
+#DRMNet
 
 A Post-Processing Network for Enhancing Road Extraction
 
